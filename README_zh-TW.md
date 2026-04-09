@@ -56,7 +56,8 @@
 ---
 
 ### 友情連結
-- [**SFS-Extensions** GitHub 倉庫（包含翻譯、模組和太陽系）](https://github.com/...)  
+- [**SFS-Extensions** GitHub 倉庫(包含翻譯、模組和太陽系)](https://github.com/SFS-Explorers/SFS-Extensions) 
+- [**SFS-Tutorials** Github 倉庫(提供各種教程)](https://github.com/SFS-Explorers/SFS-Tutorials) 
 - [加入我們的 QQ 群](404.md)  
 - [**在此新增你的連結**](./.forgithub/docs/AddFriendlyLink.md)
 

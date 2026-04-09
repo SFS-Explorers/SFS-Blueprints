@@ -57,7 +57,8 @@
 
 ### Friendly Links
 
-- [**SFS-Extensions** on GitHub which includes Translations, Mods and Solar Systems](https://github)
+- [**SFS-Extensions** on GitHub which includes Translations, Mods and Solar Systems](https://github.com/SFS-Explorers/SFS-Extensions)
+- [**SFS-Tutorials** on Github which provides tutorials for newcomers](https://github.com/SFS-Explorers/SFS-Tutorials)
 - [Join in our group on QQ](404.md)
 - [**Add your link here**](./.forgithub/docs/AddFriendlyLink.md)
 

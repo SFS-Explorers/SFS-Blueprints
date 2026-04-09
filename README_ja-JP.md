@@ -56,7 +56,8 @@
 ---
 
 ### 友好リンク
-- [**SFS-Extensions** GitHub（翻訳・MOD・太陽系）](https://github.com/...)  
+- [**SFS-Extensions** GitHub（翻訳・MOD・太陽系）](https://github.com/SFS-Explorers/SFS-Extensions)
+- [**SFS-Tutorials** Github（チュートリアル）](https://github.com/SFS-Explorers/SFS-Tutorials)
 - [QQグループに参加する](404.md)  
 - [**あなたのリンクをここに追加**](./.forgithub/docs/AddFriendlyLink.md)
 
