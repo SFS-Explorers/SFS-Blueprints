@@ -3,7 +3,7 @@
 - Made by SFS **fans**.
 - All of the blueprints are **free** to share with everyone loves SFS.
 
-[![https://img.shields.io/badge/License-MIT-yellow]](./LICENSE)
+[![](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
 [![](https://img.shields.io/badge/Game-Spaceflight_Simulator-red)](./)
 [![](https://img.shields.io/badge/Free-Blueprints-green)](./)
 
